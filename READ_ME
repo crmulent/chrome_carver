@@ -4,9 +4,7 @@ Before use, extract exiftool.zip and EvtxECmd.zip so that the directory structur
 This_folder:
 - C2_ChromeCarver.py
 - Hindsight.exe
-- exiftool
 - exiftool/exiftool.exe
-- EvtxeCmd
 - EvtxeCmd/EvtxECmd.exe
 
 

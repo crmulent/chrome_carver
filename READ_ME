@@ -1,0 +1,16 @@
+The tool is simply a merge of three other existing tools.
+
+Before use, extract exiftool.zip and EvtxECmd.zip so that the directory structure is:
+This_folder:
+- C2_ChromeCarver.py
+- Hindsight.exe
+- exiftool
+- exiftool/exiftool.exe
+- EvtxeCmd
+- EvtxeCmd/EvtxECmd.exe
+
+
+How to run (Windows 11), required parameters:
+python C2_ChromeCarver.py
+-evtx C:\Windows\System32\winevt\Logs
+-ud C:\Users\<username>\AppData\Local\Google\Chrome\User Data
